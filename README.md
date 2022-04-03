@@ -1,8 +1,9 @@
 # Csharp Library Management System 
 This is a library management system in c#. In this system user can lend a media to a customer and he can also check that media is available to lend or not. In this system they can also update customer name, media name and media type.
 
-Here are some screenshots about my libraby management system.!
-[161405504-72098a5f-db88-43ff-bbd5-055c2b59c094](https://user-images.githubusercontent.com/78735938/161405793-999907e6-c77a-4ca1-8c1a-a54b4b23b458.png)
+Here are some screenshots about my libraby management system.
+
+![161405504-72098a5f-db88-43ff-bbd5-055c2b59c094](https://user-images.githubusercontent.com/78735938/161405815-0da1fce2-247f-4c06-9cfd-29aaf225131e.png)
 
 
 
